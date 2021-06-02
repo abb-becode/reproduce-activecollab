@@ -256,9 +256,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     padding-right:45px;
     float:right;
     text-align:center;
-    /*margin-left: 380px;*/
-    margin-left: 310px;
-    margin-right:100px;
+    margin-left: 380px;
+    /*margin-left: 310px;
+    margin-right:100px;*/
     line-height: 200%;
 }
 ._medium {
@@ -289,7 +289,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     padding-right:45px;
     /*float:right;*/
     text-align:center;
-    margin-left: 380px;
+    /*margin-left: 380px;*/
+    margin-left: 180px;
     line-height: 200%;
 }
 
@@ -341,7 +342,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 .py8 {
     padding-bottom: 8px !important;
     float: right;
-    margin-right:280px;
+    /*margin-right:280px;*/
+    margin-right:380px;
     margin-bottom: 20px;
 }
 .py8-120 {
